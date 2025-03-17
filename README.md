@@ -55,15 +55,7 @@ pip install -r requirements.txt
 - Python 3.8+
 - [Weitere Abhängigkeiten werden hier ergänzt]
 
-## 🤝 Beiträge
 
-Beiträge sind willkommen! Bitte beachten Sie folgende Schritte:
-
-1. Fork des Repositories
-2. Erstellen Sie einen Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit Ihrer Änderungen (`git commit -m 'Add some AmazingFeature'`)
-4. Push zum Branch (`git push origin feature/AmazingFeature`)
-5. Öffnen Sie einen Pull Request
 
 ## 📝 Lizenz
 
